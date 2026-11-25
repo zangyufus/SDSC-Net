@@ -1,0 +1,3 @@
+nneighbor: 24
+nblocks: 4
+transformer_dim: 512
